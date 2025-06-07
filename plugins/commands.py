@@ -55,9 +55,9 @@ async def start(client, message):
                     InlineKeyboardButton('🔰 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔰', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('ᴛᴏᴘ sᴇᴀʀᴄʜɪɴɢ ⭐', callback_data="topsearch"),
-                    InlineKeyboardButton(' ʜᴇʟᴘ 📢', callback_data='help'),
-                ],[
                     InlineKeyboardButton(' ᴀʙᴏᴜᴛ 📖', callback_data='about'),
+                ],[
+                    InlineKeyboardButton(' ʜᴇʟᴘ 📢', callback_data='help'),
                     InlineKeyboardButton('ᴇᴀʀɴ ᴍᴏɴᴇʏ..💵', callback_data="shortlink_info")
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -71,7 +71,7 @@ async def start(client, message):
             gtxt = "ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ 🌘"
         else:
             gtxt = "ɢᴏᴏᴅ ɴɪɢʜᴛ 🌑"
-        m=await message.reply_text("⏳")
+        m=await message.reply_text("🧑‍💻")
         await asyncio.sleep(0.4)
         await m.delete()        
         await message.reply_photo(
@@ -87,9 +87,9 @@ async def start(client, message):
                     InlineKeyboardButton('🔰 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔰', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('ᴛᴏᴘ sᴇᴀʀᴄʜɪɴɢ ⭐', callback_data="topsearch"),
-                    InlineKeyboardButton(' ʜᴇʟᴘ 📢', callback_data='help'),
-                ],[
                     InlineKeyboardButton(' ᴀʙᴏᴜᴛ 📖', callback_data='about'),
+                ],[
+                    InlineKeyboardButton(' ʜᴇʟᴘ 📢', callback_data='help'),
                     InlineKeyboardButton('ᴇᴀʀɴ ᴍᴏɴᴇʏ..💵', callback_data="shortlink_info")
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
