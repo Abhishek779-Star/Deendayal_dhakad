@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b>​​​​​​​​​​<u>🚩 जय श्री राम 🚩​​​​​​​​​​</u></b>\n\n<b>ʜᴇʏ {}, {}</b>\n\n<b>ɪ ᴀᴍ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇ.</b>\n <blockquote>Nᴇᴇᴅ Pʀᴇᴍɪᴜᴍ 👉🏻 /plan</blockquote>"""
+    START_TXT = """<b>​​​​​​​​​​<u>🚩 जय श्री राम 🚩​​​​​​​​​​</u></b>\n\n<b>ʜᴇʏ {}, {}</b>\n\n<b>ɪ ᴀᴍ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇ.</b>\n <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <a href="https://t.me/MOVIES_WORLDZS">𝙰.𝚅 𝙼𝙾𝚅𝙸𝙴𝚂 𝚆𝙾𝚁𝙻𝙳</blockquote>"""
 
     GSTART_TXT = """<b>🚩 जय श्री राम 🚩\n\nʜᴇʏ {},\n\n𝒊 𝑨𝒎 𝑻𝒉𝒆 𝑴𝒐𝒔𝒕 𝑷𝒐𝒘𝒆𝒓𝒇𝒖𝒍 𝑨𝒖𝒕𝒐 𝑭𝒊𝒍𝒕𝒆𝒓 𝑩𝒐𝒕 𝑾𝒊𝒕𝒉 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑭𝒆𝒂𝒕𝒖𝒓𝒆.\n\n<blockquote>Nᴇᴇᴅ Pʀᴇᴍɪᴜᴍ 👉🏻 /plan</blockquote></b>"""
     
@@ -10,7 +10,7 @@ class script(object):
 
     ABOUT_TXT = """<b>╭────[ ᴍʏ ᴅᴇᴛᴀɪʟs ]────⍟
 ├⍟ Mʏ Nᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ᴏᴡɴᴇʀ</a> 
+├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ཧᜰ꙰ꦿ➢𝐀𝐛𝔥𝕚ŞℍＥҜ༒</a> 
 ├⍟ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ├⍟ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
