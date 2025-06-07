@@ -87,8 +87,8 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/Howtoverifyanylink') 
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', false))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'linkshortify.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', '7cc1e69ba5d053e9124dcd34bf56f94b66cb6f23')
-TUTORIAL = environ.get('TUTORIAL', '')  # Tutorial video link for opening shortlink website
-IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', false))
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Howtoverifyanylink')  # Tutorial video link for opening shortlink website
+IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 
 # ============================
 # Channel & Group Links Configuration
