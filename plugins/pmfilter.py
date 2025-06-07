@@ -2144,7 +2144,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text=script.SOURCE_TXT,Nᴏᴛᴇ: \n\n𝐖𝐚𝐧𝐭 𝐀 𝐁𝐨𝐭 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:\n\n✭ I ᴡɪʟʟ ᴄʀᴇᴀᴛᴇ ᴏɴᴇ ʙᴏᴛ ғᴏʀ ʏᴏᴜ.\n✭ Cᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ☟'),
+            text=script.SOURCE_TXT,
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
